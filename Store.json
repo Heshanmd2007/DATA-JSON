@@ -1,0 +1,46 @@
+{
+  "diamonds": [
+    {
+      "id": "d1",
+      "title": "100 Diamonds",
+      "description": "Instant delivery to your Free Fire account",
+      "image": "https://via.placeholder.com/300x200?text=100+Diamonds",
+      "price": 1.99,
+      "originalPrice": 2.99,
+      "discount": 33
+    },
+    {
+      "id": "d2",
+      "title": "520 Diamonds",
+      "description": "Best value package for regular players",
+      "image": "https://via.placeholder.com/300x200?text=520+Diamonds",
+      "price": 8.99,
+      "originalPrice": 10.99,
+      "discount": 18
+    }
+  ],
+  "accounts": [
+    {
+      "id": "a1",
+      "title": "Conqueror Account",
+      "description": "Season 25 Conqueror with 50+ skins, 10 elite passes, and rare items",
+      "image": "https://via.placeholder.com/300x200?text=Conqueror+Account",
+      "price": 299.99,
+      "level": 70,
+      "skins": 58,
+      "elitePasses": 10,
+      "rank": "Conqueror"
+    },
+    {
+      "id": "a2",
+      "title": "Mythic Account",
+      "description": "Mythic rank with 30+ skins including 5 legendary weapons",
+      "image": "https://via.placeholder.com/300x200?text=Mythic+Account",
+      "price": 149.99,
+      "level": 45,
+      "skins": 32,
+      "elitePasses": 5,
+      "rank": "Mythic"
+    }
+  ]
+}
