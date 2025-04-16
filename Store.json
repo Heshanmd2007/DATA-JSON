@@ -30,17 +30,6 @@
       "skins": 58,
       "elitePasses": 10,
       "rank": "Conqueror"
-    },
-    {
-      "id": "a2",
-      "title": "Mythic Account",
-      "description": "Mythic rank with 30+ skins including 5 legendary weapons",
-      "image": "https://i.ibb.co/bj1C3LM9/who-old-is-your-account-v0-gw7uyv9rck7c1.jpg",
-      "price": 1049.99,
-      "level": 45,
-      "skins": 32,
-      "elitePasses": 5,
-      "rank": "Mythic"
     }
   ]
 }
