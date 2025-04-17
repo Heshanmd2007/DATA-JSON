@@ -63,15 +63,7 @@
       "image": "https://i.ibb.co/JjYWHBxx/free-fire-57-diamond-no-login-sgmy-only-17162984117593164.webp"
     }
   ],
-  "evo": [
-    {
-      "id": "evo-basic",
-      "title": "Basic EVO Access",
-      "description": "Get access to EVO weapons and skins",
-      "price": 999,
-      "image": "https://i.ibb.co/svvMfPFR/images-1725610148368.png"
-    }
-  ],
+  "evo": [],
   "accounts": [
     {
       "id": "acc1",
