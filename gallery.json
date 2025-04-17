@@ -5,8 +5,7 @@
             "title": "Your Screenshot Title",
             "imageUrl": "https://i.ibb.co/YB4GMVH6/1e01806fa599cd7fd6b1d5650809782e.jpg",
             "date": "2023-10-20",
-            "category": "game" // or "design", "other"
+            "category": "game", "design", "other"
         },
-        // Add more screenshots...
     ]
 }
