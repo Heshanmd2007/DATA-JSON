@@ -1,23 +1,84 @@
 {
-  "diamonds": [
+  "membership": [
     {
-      "id": "DIAMOND 100",
-      "title": "100 Diamonds",
-      "description": "Instant delivery to your Free Fire account",
-      "image": "https://i.ibb.co/BHvhJrQD/free-fire-57-diamond-no-login-sgmy-only-17162984117593164.webp",
-      "price": 299.99,
-      "originalPrice": 299.99,
-      "discount": 1
+      "id": "vip1",
+      "title": "VIP Membership",
+      "tier": "VIP",
+      "price": 1999,
+      "duration": "1 Month",
+      "features": [
+        "500 Diamonds Weekly",
+        "Exclusive VIP Badge",
+        "Priority Support",
+        "Special Discounts",
+        "Early Access to New Items"
+      ]
     },
     {
-      "id": "DIAMOND 520",
-      "title": "520 Diamonds",
-      "description": "Best value package for regular players",
-      "image": "https://i.ibb.co/BHvhJrQD/free-fire-57-diamond-no-login-sgmy-only-17162984117593164.webp",
-      "price": 799.99,
-      "originalPrice": 799.99,
-      "discount": 0
+      "id": "premium1",
+      "title": "Premium Membership",
+      "tier": "Premium",
+      "price": 3499,
+      "duration": "1 Month",
+      "features": [
+        "1000 Diamonds Weekly",
+        "Exclusive Premium Badge",
+        "VIP + Premium Benefits",
+        "15% Discount on All Purchases",
+        "Free Elite Pass"
+      ]
+    },
+    {
+      "id": "deluxe1",
+      "title": "Deluxe Membership",
+      "tier": "Deluxe",
+      "price": 4999,
+      "duration": "1 Month",
+      "features": [
+        "2000 Diamonds Weekly",
+        "Exclusive Deluxe Badge",
+        "All VIP + Premium Benefits",
+        "20% Discount on All Purchases",
+        "Free Elite Pass + 2 Skins"
+      ]
     }
   ],
-  "accounts": []
+  "diamonds": [
+    {
+      "id": "diamond100",
+      "title": "100 Diamonds",
+      "description": "Instant delivery to your Free Fire account",
+      "price": 299,
+      "originalPrice": 399,
+      "discount": 25,
+      "image": "https://i.ibb.co/0jQ2Y7K/ff-pattern.png"
+    },
+    {
+      "id": "diamond500",
+      "title": "500 Diamonds",
+      "description": "Best value diamond package",
+      "price": 1299,
+      "originalPrice": 1599,
+      "discount": 19,
+      "image": "https://i.ibb.co/0jQ2Y7K/ff-pattern.png"
+    }
+  ],
+  "evo": [
+    {
+      "id": "evo-basic",
+      "title": "Basic EVO Access",
+      "description": "Get access to EVO weapons and skins",
+      "price": 999,
+      "image": "https://i.ibb.co/0jQ2Y7K/ff-pattern.png"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "acc1",
+      "title": "Premium Account (Level 50)",
+      "description": "High level account with rare skins",
+      "price": 4999,
+      "image": "https://i.ibb.co/0jQ2Y7K/ff-pattern.png"
+    }
+  ]
 }
